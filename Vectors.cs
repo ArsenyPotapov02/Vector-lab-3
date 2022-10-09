@@ -14,7 +14,8 @@ namespace Vector
         {
             this.x = x;
             this.y = y;
-            this.z = z;
+            this.z = z;// параметры для плоскости
+            
         }
 
         public Vectors()
